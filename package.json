@@ -1,5 +1,24 @@
 {
+  "name": "ch-web4",
+  "version": "0.0.1",
+  "description": "A simple node project built for learning",
+  "main": "ejercicio3.js",
+  "scripts": {
+    "start": "node ejercicio3.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://github.com/dvgui/ch-web4"
+  },
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
 }
